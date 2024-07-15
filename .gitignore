@@ -1,2 +1,4 @@
 dino_models
 sam_models
+file_list*.txt
+progress_file*.json
