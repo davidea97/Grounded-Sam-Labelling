@@ -1,0 +1,16 @@
+sam_checkpoint: sam_models/sam_vit_h_4b8939.pth #sam_vit_h_4b8939 - sam_vit_l_0b3195 - sam_vit_b_01ec64
+dino_checkpoint: dino_models/groundingdino_swint_ogc.pth
+
+sam_model_type: vit_h
+input_dir: /media/data/Datasets/imagenet21k_resized/imagenet21k_train
+
+output_dir: /media/data2/imagenet21k_masks/outputs_imagenet21k
+batch_size: 5
+image_format: .JPEG
+list_file: file_list.txt
+
+total_parts: 2 # Number of parts to split the dataset into
+part: 2 # Part number to process
+
+box_threshold: 0.5
+text_threshold: 0.25

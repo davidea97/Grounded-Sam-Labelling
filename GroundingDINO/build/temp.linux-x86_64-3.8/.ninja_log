@@ -1,0 +1,5 @@
+# ninja log v5
+1	1103	1717670634155378231	/home/allegro/davide_ws/Grounded-Segmentation/GroundingDINO/build/temp.linux-x86_64-3.8/home/allegro/davide_ws/Grounded-Segmentation/GroundingDINO/groundingdino/models/GroundingDINO/csrc/cuda_version.o	aac2b8120cce5a79
+0	7000	1717670640031315892	/home/allegro/davide_ws/Grounded-Segmentation/GroundingDINO/build/temp.linux-x86_64-3.8/home/allegro/davide_ws/Grounded-Segmentation/GroundingDINO/groundingdino/models/GroundingDINO/csrc/MsDeformAttn/ms_deform_attn_cpu.o	170f3d0a4708dcf9
+0	19336	1717670652355185377	/home/allegro/davide_ws/Grounded-Segmentation/GroundingDINO/build/temp.linux-x86_64-3.8/home/allegro/davide_ws/Grounded-Segmentation/GroundingDINO/groundingdino/models/GroundingDINO/csrc/vision.o	3a769e66ad4ba607
+1	20693	1717670653715170993	/home/allegro/davide_ws/Grounded-Segmentation/GroundingDINO/build/temp.linux-x86_64-3.8/home/allegro/davide_ws/Grounded-Segmentation/GroundingDINO/groundingdino/models/GroundingDINO/csrc/MsDeformAttn/ms_deform_attn_cuda.o	21d3d0a134a3083f
